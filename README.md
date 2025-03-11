@@ -1,6 +1,7 @@
+![logo](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 <h1 align="center">Hi 👋, I'm RAJDEEP DAS</h1>
 <h3 align="center">"Tech Meets Creativity – Redefining Possibilities ⚡"</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="Coding" width="400" src="https://private-user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDE3MDg1OTksIm5iZiI6MTc0MTcwODI5OSwicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk4NTYtM2I0NjA3YTEtMWNjNi00MWYxLTkyNmYtODkyYWU4ODBlN2E1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzExVDE1NTEzOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTExNDI2YjgyOTgyNDhhNTkzYmM5YjgzMTlmNDc0YzFkZWFmYmM5M2E5ZmMzM2VmODQ5OGU0NTE5OGQyNmMzMTkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.g5tEf4gFWBlU2V5S79snt0HovItTcUqSRmp8Lwx7BRs">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajdeepdas108&label=Profile%20views&color=0e75b6&style=flat" alt="rajdeepdas108" /> </p>
 
@@ -43,19 +44,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajdeepdas108&show_icons=true&locale=en" alt="rajdeepdas108" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajdeepdas108&" alt="rajdeepdas108" /></p>
-
-
-<!--
-**rajdeepdas108/rajdeepdas108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
