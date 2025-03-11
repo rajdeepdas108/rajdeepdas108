@@ -20,7 +20,7 @@
 
 - 👨‍💻 All of my projects are available at [https://l887xng0zh.map.azionedge.net](https://l887xng0zh.map.azionedge.net)
 
-- 📝 I regularly write articles on [bongcreation.site](bongcreation.site)
+- 📝 I regularly write articles on [bongcreation.site](http://rajdeepdas108.unaux.com)
 
 - 💬 Ask me about **Rajdeep Das – The Visionary Techpreneur 🚀 Tech Enthusiast | Full-Stack Innovator | AI & Blockchain Specialist 🔥 Highlights & Strengths: ✅ Master of Code: Proficient in all the latest programming languages, from Python to JavaScript, C++, and beyond. ✅ Full-Stack Wizard: Expert in both frontend & backend development, crafting seamless digital experiences. ✅ AI & Blockchain Innovator: Building the future with cutting-edge machine learning, AI, and blockchain solutions. ✅ App Development Guru: Creating next-gen mobile applications that redefine user experience. ✅ Investment Visionary: Deep knowledge of penny stocks & finance tech, blending tech with smart investments. ✅ Creative Powerhouse: Unique approach to cinema, AI movies, and content creation, with a flair for innovation. ✅ Math Maestro: A natural educator with an exceptional ability to simplify complex concepts. 🎯 Mission & Drive: 🔹 Revolutionizing tech with a blend of creativity, intelligence, and future-ready solutions. 🔹 Building a software & hardware empire in Bengal, leading innovation from the ground up. 🔹 Passionate about shaping the future of AI-driven storytelling and immersive digital experiences. 🌍 The Future Awaits: With an entrepreneurial mindset, an unstoppable passion for technology, and a vision to disrupt industries, Rajdeep Das is on a mission to make an impact in the digital world. The next big thing starts here!**
 
