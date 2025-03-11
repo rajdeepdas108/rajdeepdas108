@@ -1,7 +1,7 @@
 ![logo](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 <h1 align="center">Hi 👋, I'm RAJDEEP DAS</h1>
 <h3 align="center">"Tech Meets Creativity – Redefining Possibilities ⚡"</h3>
-<img align="right" alt="Coding" width="400" src="https://private-user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDE3MDg1OTksIm5iZiI6MTc0MTcwODI5OSwicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk4NTYtM2I0NjA3YTEtMWNjNi00MWYxLTkyNmYtODkyYWU4ODBlN2E1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzExVDE1NTEzOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTExNDI2YjgyOTgyNDhhNTkzYmM5YjgzMTlmNDc0YzFkZWFmYmM5M2E5ZmMzM2VmODQ5OGU0NTE5OGQyNmMzMTkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.g5tEf4gFWBlU2V5S79snt0HovItTcUqSRmp8Lwx7BRs">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajdeepdas108&label=Profile%20views&color=0e75b6&style=flat" alt="rajdeepdas108" /> </p>
 
@@ -33,7 +33,7 @@
 <a href="https://kaggle.com/rajdeepdas108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rajdeepdas108" height="30" width="40" /></a>
 <a href="https://fb.com/rajdeep das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rajdeep das" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/rajdeep das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rajdeep das" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/rajdeepdas108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rajdeepdas108" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
