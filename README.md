@@ -24,7 +24,7 @@
 
 - 💬 Ask me about **Rajdeep Das – The Visionary Techpreneur 🚀 Tech Enthusiast | Full-Stack Innovator | AI & Blockchain Specialist
   🔥 Highlights & Strengths: ✅ Master of Code: Proficient in all the latest programming languages, from Python to JavaScript, C++, and beyond. ✅ Full-Stack Wizard: Expert in both frontend & backend development, crafting seamless digital experiences.
-  -✅ AI & Blockchain Innovator: Building the future with cutting-edge machine learning, AI, and blockchain solutions.
+  -✅ AI & Blockchain Innovator: Building the future with cutting-edge machine learning, AI, and blockchain solutions.\n
   -✅ App Development Guru: Creating next-gen mobile applications that redefine user experience.
   -✅ Investment Visionary: Deep knowledge of penny stocks & finance tech, blending tech with smart investments.
   -✅ Creative Powerhouse: Unique approach to cinema, AI movies, and content creation, with a flair for innovation.
