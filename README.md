@@ -6,6 +6,20 @@
 <h3 align="center">"Tech Meets Creativity – Redefining Possibilities ⚡"</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
 
+
+
+<p align="center">
+  <img src="python.png" alt="python image" width="300">
+</p>
+
+<h1 align="center">A passionate developer from India! 🧑‍💻🇮🇳</h1>
+
+- 🍁 I love to explore new technologies to refine my skills and contribute to interactive projects.
+- 🌟 My journey into coding began with a curiosity to create, automate, and solve real life problems.
+- 🚀 I aim to enhance my skills in full-stack web development and explore advanced AI and machine learning concepts.
+- ✍️ I love to write articles on Quora and crafting short fictional stories.
+- 🌐 Feel free to connect with me or explore my repositories to learn more about my work!
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajdeepdas108&label=Profile%20views&color=0e75b6&style=flat" alt="rajdeepdas108" /> </p>
 
 <p align="left"> <a href="https://twitter.com/rajdeepdas108" target="blank"><img src="https://img.shields.io/twitter/follow/rajdeepdas108?logo=twitter&style=for-the-badge" alt="rajdeepdas108" /></a> </p>
@@ -23,7 +37,7 @@
 
 - 📫 How to reach me **drajdeep00108@gmail.com**
 
-- ⚡ Fun fact **I think I am funny....**
+- ⚡ Fun fact **Whether it is life or code, always learn from my error!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -35,11 +49,6 @@
 <a href="https://www.youtube.com/c/rajdeep das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rajdeep das" height="30" width="40" /></a>
 
 </p>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajdeepdas108&show_icons=true&locale=en&layout=compact" alt="rajdeepdas108" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajdeepdas108&show_icons=true&locale=en" alt="rajdeepdas108" /></p>
 
 
 # 💻 My Tech Stack and Language:
