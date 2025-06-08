@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&height=50&lines=%F0%9F%91%8B+Hey+developers!;I'm+Bikram+Mondal" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&height=50&lines=%F0%9F%91%8B+Hey+developers!;I'm+RAJDEEP+DAS" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -39,9 +39,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajdeepdas108&show_icons=true&theme=highcontrast&locale=en" alt="rajdeepdas108" />
 </p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BikramMondal5&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajdeepdas108&theme=radical)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BikramMondal5&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="rajdeepdas108" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajdeepdas108&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="rajdeepdas108" /></p>
 
 <p align="left"><img src="https://github-trophies.vercel.app/?username=BikramMondal5&theme=radical" alt="rajdeepdas108" />
 </p>
