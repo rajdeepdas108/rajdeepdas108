@@ -4,7 +4,7 @@
     
 <h1 align="center">Hi 👋, I'm RAJDEEP DAS</h1>
 <h3 align="center">"Tech Meets Creativity – Redefining Possibilities ⚡"</h3>
-<img align="right" alt="Coding" width="400" src="[https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa25kMHA3OWRubmN4N2J6bjE0MWIyMXhnNWhmb3hxcTBheGR1czFsMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif)">
+<img align="right" alt="Coding" width="400" src="[https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif]">
 
 
 
