@@ -14,18 +14,6 @@
 
 
 
-
-
-
-<h1 align="center">A passionate developer from India! 🧑‍💻🇮🇳</h1>
-
-- 🍁 I love to explore new technologies to refine my skills and contribute to interactive projects.
-- 🌟 My journey into coding began with a curiosity to create, automate, and solve real life problems.
-- 🚀 I aim to enhance my skills in full-stack web development and explore advanced AI and machine learning concepts.
-- ✍️ I love to write articles on Quora and crafting short fictional stories.
-- 🌐 Feel free to connect with me or explore my repositories to learn more about my work!
-- 
-
 - 🌱 I’m currently learning **Bachelor of Technology in Computer Science and Engineering**
 
 - 📄 Know about my experiences  [https://rajdeepdas.vercel.app/](https://rajdeepdas.vercel.app/)
@@ -70,3 +58,11 @@
 <p align="center">
   <img src="python.png" alt="python image" width="300">
 </p>
+
+<h1 align="center">A passionate developer from India! 🧑‍💻🇮🇳</h1>
+
+- 🍁 I love to explore new technologies to refine my skills and contribute to interactive projects.
+- 🌟 My journey into coding began with a curiosity to create, automate, and solve real life problems.
+- 🚀 I aim to enhance my skills in full-stack web development and explore advanced AI and machine learning concepts.
+- ✍️ I love to write articles on Quora and crafting short fictional stories.
+- 🌐 Feel free to connect with me or explore my repositories to learn more about my work!
