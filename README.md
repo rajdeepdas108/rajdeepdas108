@@ -8,9 +8,10 @@
 
 
 
-<p align="center">
-  <img src="python.png" alt="python image" width="300">
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajdeepdas108&label=Profile%20views&color=0e75b6&style=flat" alt="rajdeepdas108" /> </p>
+
+<p align="left"> <a href="https://twitter.com/rajdeepdas108" target="blank"><img src="https://img.shields.io/twitter/follow/rajdeepdas108?logo=twitter&style=for-the-badge" alt="rajdeepdas108" /></a> </p>
+
 
 <h1 align="center">A passionate developer from India! 🧑‍💻🇮🇳</h1>
 
@@ -19,21 +20,13 @@
 - 🚀 I aim to enhance my skills in full-stack web development and explore advanced AI and machine learning concepts.
 - ✍️ I love to write articles on Quora and crafting short fictional stories.
 - 🌐 Feel free to connect with me or explore my repositories to learn more about my work!
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajdeepdas108&label=Profile%20views&color=0e75b6&style=flat" alt="rajdeepdas108" /> </p>
-
-<p align="left"> <a href="https://twitter.com/rajdeepdas108" target="blank"><img src="https://img.shields.io/twitter/follow/rajdeepdas108?logo=twitter&style=for-the-badge" alt="rajdeepdas108" /></a> </p>
+- 
 
 - 🌱 I’m currently learning **Bachelor of Technology in Computer Science and Engineering**
 
 - 📄 Know about my experiences  [https://rajdeepdas.vercel.app/](https://rajdeepdas.vercel.app/)
 
 - 💬 Ask me about **Rajdeep Das – The Visionary Techpreneur 🚀 Tech Enthusiast | Full-Stack Innovator | AI & Blockchain Specialist
-
- 
-- 🔥 Highlights & Strengths: ✅ Master of Code: Proficient in all the latest programming languages, from Python to JavaScript, C++, and beyond. ✅ Full-Stack Wizard: Expert in both frontend & backend development, crafting seamless digital experiences.
-  
-- 🌍 The Future Awaits: With an entrepreneurial mindset, an unstoppable passion for technology, and a vision to disrupt industries, Rajdeep Das is on a mission to make an impact in the digital world. The next big thing starts here!**
 
 - 📫 How to reach me **drajdeep00108@gmail.com**
 
@@ -69,3 +62,7 @@
 </p>
 
 <br/>
+
+<p align="center">
+  <img src="python.png" alt="python image" width="300">
+</p>
