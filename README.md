@@ -18,7 +18,7 @@
 
 - 📄 Know about my experiences  [https://rajdeepdas.vercel.app/](https://rajdeepdas.vercel.app/)
 
-- 💬 Ask me about **Rajdeep Das – The Visionary Techpreneur 🚀 Tech Enthusiast | Full-Stack Innovator | AI & Blockchain Specialist
+- 💬 Ask me about **Rajdeep Das** – The Visionary Techpreneur 🚀 Tech Enthusiast | Full-Stack Innovator | AI & Blockchain Specialist
 
 - 📫 How to reach me **drajdeep00108@gmail.com**
 
