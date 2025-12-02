@@ -63,15 +63,28 @@
 
 # 🍁 My Github Stats:
 
-![](https://github-stats-alpha.vercel.app/api?username=rajdeepdas108&cc=141321&tc=A9FEF7&ic=F8D847&bc=fff "profile")
+<!-- Main Stats -->
+<p align="center">
+  <img src="https://github-stats-alpha.vercel.app/api?username=rajdeepdas108&cc=141321&tc=A9FEF7&ic=F8D847&bc=fff" alt="profile stats"/>
+</p>
+
+<br/>
+
+<!-- Top languages (stable mirror) -->
+
+<!-- Summary card (https & reliable) -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajdeepdas108&theme=radical" alt="summary" />
+</p>
 
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajdeepdas108&theme=radical)
 
 
 
-🐍 Contribution Snake
+
+
+## 🐍 Contribution Snake**
 <p align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"> </p>
 
 
