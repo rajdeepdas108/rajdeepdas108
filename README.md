@@ -75,10 +75,19 @@
 <p align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"> </p>
 
 
-📊 GitHub Stats
 
 
-<p align="left"><img src="https://github-trophies.vercel.app/?username=BikramMondal5&theme=radical" alt="rajdeepdas108" />
+
+## 🏆 **GitHub Achievements**
+<p align="center"
+
+
+
+
+
+
+
+ ><img src="https://github-trophies.vercel.app/?username=BikramMondal5&theme=radical" alt="rajdeepdas108" />
 </p>
 
 <br/>
