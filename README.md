@@ -1,28 +1,51 @@
+<!-- 🌊 Animated Wave Header -->
 <p align="center">
-<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
-    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+Hey+developers!;👋+I'm+RAJDEEP+DAS..;Open-Source+Enthusiast..;Learning+In+Public..;Empowering+Others;Nice+To+Meet+You+....&center=true"></a></p>
-    
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=250&section=header&text=RAJDEEP%20DAS%20🚀&fontSize=60&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<!-- 🔥 Original Typing SVG -->
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+Hey+developers!;👋+I'm+RAJDEEP+DAS..;Open-Source+Enthusiast..;Learning+In+Public..;Empowering+Others;Nice+To+Meet+You+....&center=true">
+</p>
+
 <h1 align="center">Hi 👋, I'm RAJDEEP DAS</h1>
 <h3 align="center">"Tech Meets Creativity – Redefining Possibilities ⚡"</h3>
+
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
+<!-- Profile Views -->
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=rajdeepdas108&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
+<!-- Twitter -->
+<p align="left"> 
+  <a href="https://twitter.com/rajdeepdas108" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/rajdeepdas108?logo=twitter&style=for-the-badge" />
+  </a> 
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajdeepdas108&label=Profile%20views&color=0e75b6&style=flat" alt="rajdeepdas108" /> </p>
+---
 
-<p align="left"> <a href="https://twitter.com/rajdeepdas108" target="blank"><img src="https://img.shields.io/twitter/follow/rajdeepdas108?logo=twitter&style=for-the-badge" alt="rajdeepdas108" /></a> </p>
+# 🏅 Developer Badges  
+<p align="left">
+  <img src="https://img.shields.io/badge/Top%20Developer-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI%20Specialist-00E5FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Open%20Source%20Lover-FF007F?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-FFD700?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Tech%20Entrepreneur-06D6A0?style=for-the-badge"/>
+</p>
 
+---
 
+# 📌 About Me  
+- 🌱 B.Tech in **Computer Science & Engineering**  
+- 📄 Portfolio → **https://rajdeepdas.vercel.app**  
+- 💬 Ask me about **AI • Blockchain • Full-Stack Development**  
+- 📫 Email → **drajdeep00108@gmail.com**  
+- ⚡ Fun fact → *Whether life or code, always learn from your error!*  
 
-- 🌱 I’m currently learning **Bachelor of Technology in Computer Science and Engineering**
-
-- 📄 Know about my experiences  [https://rajdeepdas.vercel.app/](https://rajdeepdas.vercel.app/)
-
-- 💬 Ask me about **Rajdeep Das** – The Visionary Techpreneur 🚀 Tech Enthusiast | Full-Stack Innovator | AI & Blockchain Specialist
-
-- 📫 How to reach me **drajdeep00108@gmail.com**
-
-- ⚡ Fun fact **Whether it is life or code, always learn from my error!**
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,8 +53,8 @@
 <a href="https://linkedin.com/in/rajdeepdas108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajdeepdas108" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/29964602" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="29964602" height="30" width="40" /></a>
 <a href="https://kaggle.com/rajdeepdas108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rajdeepdas108" height="30" width="40" /></a>
-<a href="https://fb.com/rajdeep das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rajdeep das" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/rajdeep das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rajdeep das" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=61572891759495" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rajdeep das" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@rajdeepdas108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rajdeep das" height="30" width="40" /></a>
 
 </p>
 
@@ -49,8 +72,8 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajdeepdas108&theme=radical)
 
 
-![Contribution Graph](https://ssr-contributions-svg.vercel.app/_/Mayur-Pagote?chart=3dbar&gap=0.6&scale=1.2&gradient=true&flatten=0&animation=mess&animation_duration=6&animation_loop=true&format=svg&weeks=50&theme=purple&widget_size=large&colors=FF6F61,FF9671,FFC15E,72F2EB,1282A2,FCE2DB,FAD4D8,DBDFFD&dark=true
-)
+🐍 Contribution Snake
+<p align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"> </p>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajdeepdas108&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="rajdeepdas108" /></p>
