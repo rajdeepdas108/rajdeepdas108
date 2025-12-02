@@ -66,17 +66,18 @@
 
 ![](https://github-stats-alpha.vercel.app/api?username=rajdeepdas108&cc=141321&tc=A9FEF7&ic=F8D847&bc=fff "profile")
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajdeepdas108&show_icons=true&theme=highcontrast&locale=en" alt="rajdeepdas108" />
-</p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajdeepdas108&theme=radical)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajdeepdas108&theme=radical)
+
 
 
 🐍 Contribution Snake
 <p align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"> </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajdeepdas108&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="rajdeepdas108" /></p>
+📊 GitHub Stats
+
 
 <p align="left"><img src="https://github-trophies.vercel.app/?username=BikramMondal5&theme=radical" alt="rajdeepdas108" />
 </p>
