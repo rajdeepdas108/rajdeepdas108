@@ -19,11 +19,10 @@
 </p>
 
 <!-- Twitter -->
-<p align="left"> 
-  <a href="https://twitter.com/rajdeepdas108" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/rajdeepdas108?logo=twitter&style=for-the-badge" />
-  </a> 
-</p>
+<a href="https://twitter.com/rajdeepdas108" target="_blank">
+  <img src="https://img.shields.io/badge/Follow%20on%20X-000000?style=for-the-badge&logo=x&logoColor=white">
+</a>
+
 
 ---
 
