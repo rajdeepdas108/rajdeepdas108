@@ -83,9 +83,46 @@
 
 <br/>
 
+
+---
+
+# 📦 Project Showcase Grid (Added)
+<table>
+<tr>
+<td align="center" width="33%">
+  
+### 🔥 LinkedIn Job Scam Detector  
+AI Chrome Extension  
+<img src="https://img.shields.io/badge/AI-Powered-8A2BE2?style=for-the-badge"/>
+
+</td>
+
+<td align="center" width="33%">
+  
+### 🔗 Blockchain Supply Chain  
+Hackathon Project  
+<img src="https://img.shields.io/badge/Blockchain-00E5FF?style=for-the-badge"/>
+
+</td>
+
+<td align="center" width="33%">
+  
+### 🤖 RATAN Voice Assistant  
+Hindi + Bengali AI  
+<img src="https://img.shields.io/badge/Voice%20AI-FF007F?style=for-the-badge"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+
+
 <p align="center">
   <img src="python.png" alt="python image" width="300">
 </p>
+
 
 <h1 align="center">A passionate developer from India! 🧑‍💻🇮🇳</h1>
 
@@ -94,3 +131,16 @@
 - 🚀 I aim to enhance my skills in full-stack web development and explore advanced AI and machine learning concepts.
 - ✍️ I love to write articles on Quora and crafting short fictional stories.
 - 🌐 Feel free to connect with me or explore my repositories to learn more about my work!
+
+
+# 🕒 Personal Timeline ( )
+```mermaid
+timeline
+    title Rajdeep's Tech Journey
+    2019 : Started Coding (C Language)
+    2020 : Learned Python & Web Dev
+    2021 : First Full Projects
+    2022 : Shift to AI & ML
+    2023 : Joined CSE Engineering
+    2024 : Built AI Tools & Extensions
+    2025 : Full Stack + AI + Blockchain
